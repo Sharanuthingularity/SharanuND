@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Task automation using the Python.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced Task automation + Python.<br><br>💬
+🔭 **I’m currently working on:**  <br>Task automation using the Python.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced Task automation + Python.<br><br>
 
 
 ## 🌐 Socials:
