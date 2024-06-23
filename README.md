@@ -8,3 +8,4 @@
 # 💻 Tech Stack:
 ![Embedded C/C++](https://img.shields.io/badge/Embedded%20C/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Firmware Development](https://img.shields.io/badge/Firmware%20Development-%23009639.svg?style=for-the-badge&logo=firmware&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20C/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
