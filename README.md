@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Firmware development using C/C++.<br><br>👯 **I’m looking to collaborate on:**  <br>Complex Embedded System development<br><br>🌱 **I’m currently learning:**  <br>Advance C/C++ : firmware developemnet + Embedded systems<br><br>
+🔭 **I’m currently working on:**  <br>Firmware development using C/C++.<br><br>👯 **I’m looking to collaborate on:**  <br>Complex Embedded Systems development<br><br>🌱 **I’m currently learning:**  <br>Advance Embedded Systems + Python + AIML + Cloud<br><br>
 
 
 ## 🌐 Socials:
