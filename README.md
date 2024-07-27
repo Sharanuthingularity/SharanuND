@@ -9,4 +9,3 @@
 ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-%23FFA500.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Embedded C/C++](https://img.shields.io/badge/Embedded%20C/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Firmware Development](https://img.shields.io/badge/Firmware%20Development-%23009639.svg?style=for-the-badge&logo=firmware&logoColor=white)
-![RTOS](https://img.shields.io/badge/Firmware%20Development-%23009639.svg?style=for-the-badge&logo=firmware&logoColor=black)
