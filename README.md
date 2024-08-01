@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Embedded Firmware development using C.<br><br>👯 **I’m looking to collaborate on:**  <br>Complex Embedded Systems development<br><br>🌱 **I’m currently learning:**  <br>Advance Embedded Systems development + Web development<br><br>
+Pro in developing firmware for the embedded systems and web development.
 
 
 ## 🌐 Socials:
