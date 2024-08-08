@@ -1,5 +1,4 @@
-# 💫 About Me:
-Pro in developing firmware for the embedded systems and web development.
+Embedded Software/firmware Engineer
 
 
 ## 🌐 Socials:
