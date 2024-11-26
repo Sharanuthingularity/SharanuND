@@ -1,4 +1,4 @@
-Embedded Software/firmware Engineer
+Embedded Firmware Developer & RTOS | C | Python
 
 
 ## 🌐 Socials:
